@@ -1,7 +1,10 @@
 # NTCNTT01_BAITHUCHANH07_NHOM01_CTU
 
+
 Học phần: Nền tảng công nghệ số
+
 Giảng viên: Ths.Nguyễn Minh Trung
+
 Họ và tên: Nguyễn Phát Đạt B2504789, Dương Văn Thành Hiệu B2504794, Nguyễn Ngọc Diệp B2504786, Nguyễn Tuấn Anh B2504784
 
 # Lab07 - Dịch vụ tiện ích và sử dụng sáng tạo
